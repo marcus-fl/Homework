@@ -13,3 +13,5 @@
 ### VÝSLEDEK KTERÝ VYPÍŠE VÝŠE UVEDENÝ PROGRAM:
 ![VYSLEDEK_2.PNG](screenshots/VYSLEDEK_2.PNG)
 ![VYSLEDEK_2.PNG](screenshots/VYSLEDEK_2.PNG)
+
+## Děkuji za přečtení, měj se hezky :-)
